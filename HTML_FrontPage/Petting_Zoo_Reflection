@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <script src="p5.js"></script>
+  <script src="p5.sound.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+  <style>
+    iframe {
+      margin-left: 15vw;
+      margin-bottom: vh;
+      margin-top: vh;
+      height: 95vh;
+      width: 70vw;
+      position: absolute;
+      z-index: 1;
+    }
+  </style>
+
+</head>
+<body>
+    <a href = "index.html"> <h2> <center> Home <center> </h2> </a>
+    <script src="sketch.js"></script>
+    <iframe src="https://docs.google.com/document/d/1kUXCRHoXR3ARvgTY6OELpEX32DUxsZ68hu5G682UX4E/edit?usp=sharing"></iframe>
+</html>
